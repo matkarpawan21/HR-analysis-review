@@ -1,0 +1,6 @@
+1. Imported HR Analytics dataset into Power BI.
+2. Removed unnecessary columns.
+3. Fixed missing values using replace and remove methods.
+4. Changed column datatypes.
+5. Created Salary Band conditional columns.
+6. Loaded transformed data and built visuals.
